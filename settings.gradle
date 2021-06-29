@@ -1,0 +1,2 @@
+rootProject.name='AndriodTest'
+include ':app'
